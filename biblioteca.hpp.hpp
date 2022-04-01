@@ -1,1 +1,0 @@
-int Factornum(int n);
